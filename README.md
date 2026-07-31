@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">Hi there, I'm ORLANDO🚀</h3>
-  <p align="centre">Developer & Security Enthusiast in Progress. </p>
+  <p align="centre">A Developer & Security Enthusiast in Progress. </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ORLAND0HENRY&color=f59e0b&style=flat-square&label=Profile+Views" alt="Profile Views" />
