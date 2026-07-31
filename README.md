@@ -5,7 +5,7 @@
 <h3 align="center">Hi there, I'm a Developer & Security Enthusiast in Progress 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=f59e0b&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ORLAND0HENRY&color=f59e0b&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Django-f59e0b?style=flat-square&logo=django&logoColor=white" alt="Django Stack" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-f59e0b?style=flat-square&logo=linux&logoColor=white" alt="Cybersecurity" />
 </p>
