@@ -1,35 +1,45 @@
-# Hi there, I'm [Your Name] 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f59e0b&height=180&section=header&text=Building%20Secure%20Systems%20&%20Code&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
+
+<h3 align="center">Hi there, I'm a Developer & Security Enthusiast in Progress 🚀</h3>
 
 <p align="center">
-  <img src="https://vercel.app" alt="Daily Quote" />
-</p>
-
-### 🛠️ About Me
-- 🔭 I’m currently working on **[Project Name or Job Role]**
-- 🌱 I’m currently learning **[New Framework, Language, or Tech]**
-- 🤝 I’m looking to collaborate on **[Open Source / Specific Projects]**
-- 💬 Ask me about **[Your Specialities / Tech Interests]**
-- ✉️ How to reach me **[Your Email Address]**
-
----
-
-### 🧰 Tech Stack & Skills
-<!-- Dynamic icons from skill-icons repo -->
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
-
----
-
-### 📊 GitHub Statistics
-<p align="left">
-  <img src="https://vercel.app[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
-  <img src="https://herokuapp.com[YOUR-GITHUB-USERNAME]&theme=radical" alt="GitHub Streak" height="180px" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=f59e0b&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Django-f59e0b?style=flat-square&logo=django&logoColor=white" alt="Django Stack" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-f59e0b?style=flat-square&logo=linux&logoColor=white" alt="Cybersecurity" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com[YOUR-LINKEDIN]" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="https://twitter.com[YOUR-TWITTER]" target="_blank"><img src="https://shields.io" alt="Twitter" /></a>
-  <a href="[YOUR-PORTFOLIO-URL]" target="_blank"><img src="https://shields.io" alt="Portfolio" /></a>
-</p>
+### 💻 About Me
+* **Primary Stack:** Python, Django, Tailwind CSS, Alpine.js
+* **Current Focus:** Advanced Django architecture, backend security, and ethical hacking methodologies.
+* **Brand Identity:** Styled with precision using **Amber-500** accents for a clean, production-ready aesthetic.
+* **Goal:** Building robust, secure applications and deploying production-ready systems.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, HTML5, CSS3, SQL |
+| **Frameworks** | Django, Tailwind CSS, Alpine.js |
+| **Security & Ops** | Linux, Penetration Testing, Git, Nginx |
+| **Databases** | PostgreSQL, SQLite |
+
+---
+
+### ⚡ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&accent_color=f59e0b" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&accent_color=f59e0b" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f59e0b&height=100&section=footer" width="100%" />
+</div>
