@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f59e0b&height=180&section=header&text=Building%20Secure%20Systems%20&%20Code&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<h3 align="center">Hi there, I'm a Developer & Security Enthusiast in Progress 🚀</h3>
+<h3 align="center">Hi there, I'm a Developer & Security Enthusiast in Progress. 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ORLAND0HENRY&color=f59e0b&style=flat-square&label=Profile+Views" alt="Profile Views" />
