@@ -34,8 +34,8 @@
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&accent_color=f59e0b" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&accent_color=f59e0b" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ORLAND0HENRY&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&accent_color=f59e0b" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORLAND0HENRY&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&accent_color=f59e0b" alt="Top Languages" width="48%" />
 </div>
 
 ---
