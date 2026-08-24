@@ -1,4 +1,4 @@
-markdown_content = """<div align="center">
+ """<div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f59e0b&height=220&section=header&text=Orlantech%20Innovations&fontSize=42&fontColor=ffffff&animation=fadeIn&stroke=f59e0b" width="100%" alt="Header Banner" />
 
