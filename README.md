@@ -1,46 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f59e0b&height=180&section=header&text=Building%20Secure%20Systems%20&%20Code&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
-</div>
 
-<h3 align="center">Hi there, I'm ORLANDO🚀</h3>
-  <p align="centre">A Developer & Security Enthusiast in Progress. </p>
+  <!-- Header Banner / Hero Section -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f59e0b&height=220&section=header&text=Orlantech%20Innovations&fontSize=42&fontColor=ffffff&animation=fadeIn&stroke=f59e0b" width="100%" alt="Header Banner" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ORLAND0HENRY&color=f59e0b&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Django-f59e0b?style=flat-square&logo=django&logoColor=white" alt="Django Stack" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-f59e0b?style=flat-square&logo=linux&logoColor=white" alt="Cybersecurity" />
-</p>
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Full-Stack+Django+Developer;Cybersecurity+%26+Ethical+Hacking;Building+Production-Ready+Systems" alt="Typing SVG" />
+  </h1>
 
----
+  <p><b>Crafting secure, high-performance web applications and robust architectures.</b></p>
 
-### 💻 About Me
-* **Primary Stack:** Python, Django, Tailwind CSS, Alpine.js
-* **Current Focus:** Advanced Django architecture, backend security, and ethical hacking methodologies.
-* **Brand Identity:** Styled with precision using **Amber-500** accents for a clean, production-ready aesthetic.
-* **Goal:** Building robust, secure applications and deploying production-ready systems.
+  <p>
+    <a href="https://github.com/ORLAND0HENRY"><img src="https://img.shields.io/badge/Status-Building%20%26%20Securing-f59e0b?style=for-the-badge&labelColor=0d1117" alt="Status" /></a>
+    <a href="https://github.com/ORLAND0HENRY"><img src="https://img.shields.io/badge/Focus-Django%20%7C%20Security-f59e0b?style=for-the-badge&labelColor=0d1117" alt="Focus" /></a>
+  </p>
 
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, HTML5, CSS3, SQL |
-| **Frameworks** | Django, Tailwind CSS, Alpine.js |
-| **Security & Ops** | Linux, Penetration Testing, Git, Nginx |
-| **Databases** | PostgreSQL, SQLite |
-
----
-
-### ⚡ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ORLAND0HENRY&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORLAND0HENRY&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f59e0b&height=100&section=footer" width="100%" />
-</div>
+### **About Me**
+
+```system
+> System.Init(): Loading Profile Information...
+> Role: Full-Stack Developer & Security Researcher
+> Tech Stack: Python / Django / Tailwind CSS / Alpine.js / WebGL
+> Focus: Building resilient web applications, custom API pipelines, and secure enterprise solutions.
+Architecture & Web: Specializing in Django backend ecosystem, dynamic frontend interactions, and clean UI/UX designs.Cybersecurity: Actively studying mobile security testing, web application penetration testing, and secure system auditing.Core Principle: Clean, production-ready, and zero-fluff engineering.Tech Stack & CapabilitiesKey ProjectsProjectDescriptionTech StackIronclad GearE-Commerce platform built for scalability and secure payment flows.Django, Tailwind CSS, PostgreSQLPendo School ManagementEnterprise-grade administrative system for academic tracking and management.Django, Alpine.js, SQLite/PostgresSmart InventoryPredictive analytics inventory system engineered for real-time asset control.Python, Django, Tailwind CSSSiteLock Security PortalSecurity auditing desk tracking SSL integrity, response latency, and vulnerabilities.Django, Tailwind CSS, Security ToolsSystem AnalyticsDesigned & Developed by Orlantech InnovationsCustomization Steps:
