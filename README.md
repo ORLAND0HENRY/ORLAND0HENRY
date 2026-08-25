@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Turning ideas into useful technology through code, creativity, and curiosity.
+  Where Tech Meets Creativity and Passion
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ Some start as random ideas at 2 AM.
 Check out my repositories to see what I'm currently building.
 
 <p align="center">
-  <a href="https://github.com/ORLANTECH-INNOVATIONS">
+  <a href="https://github.com/ORLAND0HENRY">
     <img src="https://img.shields.io/badge/Explore%20My%20Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
   </a>
 </p>
@@ -158,7 +158,7 @@ Whether you're a developer, creator, entrepreneur, tech enthusiast, or simply so
 
 <p align="center">
   <a href="https://github.com/ORLANTECH-INNOVATIONS">
-    <img src="https://img.shields.io/badge/GitHub-ORLANTECH%20INNOVATIONS-0d1117?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-ORLAND0%20HENRY-0d1117?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
 
@@ -171,5 +171,5 @@ Whether you're a developer, creator, entrepreneur, tech enthusiast, or simply so
 <p align="center">
   <strong>ORLANTECH INNOVATIONS</strong>
   <br>
-  <sub>Where ideas meet technology.</sub>
+  <sub>Where tech meet creativity and passion</sub>
 </p>
