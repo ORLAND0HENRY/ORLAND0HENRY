@@ -1,38 +1,175 @@
-<div align="center">
+<p align="center">
+  <img src="./banner.svg" alt="Orlando Henry — ORLANTECH INNOVATIONS" width="100%">
+</p>
 
-<!-- HERO BANNER REFERENCE -->
-<img src="./banner.svg" alt="Orlantech Innovations Header Banner" width="100%" />
+<br>
 
-<br/><br/>
+<h1 align="center">Hey, I'm Orlando Henry 👋</h1>
 
-<!-- CONTROLLED BADGE LAYOUT TABLE -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Architecture-Django%20Backend-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-      <img src="https://img.shields.io/badge/Security-Ethical%20Hacking-f59e0b?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Cybersecurity"/>
-      <img src="https://img.shields.io/badge/Language-Python%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-      <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong>Founder · Developer · Builder</strong>
+</p>
 
-<br/>
+<p align="center">
+  Turning ideas into useful technology through code, creativity, and curiosity.
+</p>
 
-<!-- DYNAMIC TYPING HEADER -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Building+resilient%2C+high-concurrency+web+systems.;Specializing+in+Django+Architecture+%26+SecOps.;Defensive+code.+Actionable+precision.+Zero+fluff." alt="Typing SVG" />
-</a>
-
-</div>
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-what-i-build">What I Build</a> •
+  <a href="#-technology">Technology</a> •
+  <a href="#-orlan-tech-innovations">ORLANTECH</a> •
+  <a href="#-lets-connect">Connect</a>
+</p>
 
 ---
 
-### **Executive Summary**
+## 👨🏽‍💻 About Me
 
-Engineered for resilience, performance, and security. Specializing in production-grade backend systems, custom UI component architectures, and web application security auditing.
+I'm **Orlando Henry**, a developer and technology enthusiast with a passion for turning ideas into practical digital solutions.
+
+I enjoy exploring how technology works, building things from scratch, solving problems with code, and constantly learning something new along the way.
+
+I'm particularly interested in **Python, web development, software engineering, automation, and technology-driven ideas**.
+
+> **Build. Learn. Improve. Repeat.**
+
+---
+
+## 🚀 What I Build
+
+I like working on projects that sit somewhere between **technology, creativity, and real-world usefulness**.
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   💻  Web Applications                      │
+│   🐍  Python Projects                       │
+│   ⚙️  Software & Automation                 │
+│   🧠  Problem Solving                       │
+│   💡  Experimental Projects                 │
+│   🚀  Digital Products                      │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+I'm not interested in simply writing code that works.
+
+**I want to understand it, improve it, and build something meaningful with it.**
+
+---
+
+## 🛠️ Technology
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,flask" />
+
+</p>
+
+### Currently exploring
+
+* 🐍 Python & backend development
+* 🌐 Modern web development
+* 🗄️ Databases & data-driven applications
+* ⚙️ Automation and scripting
+* 🧩 Software architecture
+* 🚀 Building and shipping real projects
+
+---
+
+## 🏢 ORLANTECH INNOVATIONS
+
+<p align="center">
+  <strong>Technology • Creativity • Innovation</strong>
+</p>
+
+**ORLANTECH INNOVATIONS** is my personal technology venture focused on creating digital solutions, experimenting with ideas, and exploring the possibilities of technology.
+
+The goal is simple:
+
+> **Use technology to turn good ideas into useful things.**
+
+This GitHub profile is part of that journey — a place where I experiment, build, learn, and document the things I'm working on.
+
+---
+
+## 📌 Featured Work
+
+Some projects are experiments.
+
+Some solve problems.
+
+Some start as random ideas at 2 AM.
+
+**All of them are part of the learning process.**
+
+Check out my repositories to see what I'm currently building.
+
+<p align="center">
+  <a href="https://github.com/ORLANTECH-INNOVATIONS">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
+  </a>
+</p>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ORLANTECH-INNOVATIONS&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58e6c8&icon_color=58e6c8&text_color=c9d1d9" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORLANTECH-INNOVATIONS&layout=compact&hide_border=true&bg_color=0d1117&title_color=58e6c8&text_color=c9d1d9" height="170">
+</p>
+
+---
+
+## 🌱 The Journey
+
+I'm still learning.
+
+Still experimenting.
+
+Still breaking things.
+
+Still fixing them.
+
+And that's exactly how I like it.
+
+Every project teaches me something new, and every problem is another opportunity to understand technology a little better.
+
+```text
+                    KEEP BUILDING
+                         │
+              ┌──────────┼──────────┐
+              ▼          ▼          ▼
+            LEARN      BUILD      IMPROVE
+              │          │          │
+              └──────────┼──────────┘
+                         │
+                         ▼
+                      REPEAT
+```
+
+---
+
+## 🤝 Let's Connect
+
+Whether you're a developer, creator, entrepreneur, tech enthusiast, or simply someone who likes building interesting things — you're welcome here.
+
+<p align="center">
+  <a href="https://github.com/ORLANTECH-INNOVATIONS">
+    <img src="https://img.shields.io/badge/GitHub-ORLANTECH%20INNOVATIONS-0d1117?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Designed, built & continuously improved by <strong>Orlando Henry</strong>.</sub>
+</p>
+
+<p align="center">
+  <strong>ORLANTECH INNOVATIONS</strong>
+  <br>
+  <sub>Where ideas meet technology.</sub>
+</p>
