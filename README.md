@@ -165,7 +165,7 @@ Whether you're a developer, creator, entrepreneur, tech enthusiast, or simply so
 ---
 
 <p align="center">
-  <sub>Designed, built & continuously improved by <strong>Orlando Henry</strong>.</sub>
+  <sub>Designed ad built by <strong>Orlando Henry</strong>.</sub>
 </p>
 
 <p align="center">
