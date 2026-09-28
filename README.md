@@ -1,11 +1,8 @@
 <p align="center">
   <img src="./banner.svg" alt="Orlando Henry — ORLANTECH INNOVATIONS" width="100%">
 </p>
-
 <br>
-
 <h1 align="center">Hey, I'm Orlando Henry 👋</h1>
-
 <p align="center">
   <strong>Founder · Developer · Builder</strong>
 </p>
@@ -30,7 +27,7 @@ I'm **Orlando Henry**, a developer and technology enthusiast with a passion for 
 
 I enjoy exploring how technology works, building things from scratch, solving problems with code, and constantly learning something new along the way.
 
-I'm particularly interested in **Python, web development, software engineering, automation, and technology-driven ideas**.
+I'm particularly interested in **Python, web development, software engineering, automation,security and technology-driven ideas**.
 
 > **Build. Learn. Improve. Repeat.**
 
@@ -52,11 +49,6 @@ I like working on projects that sit somewhere between **technology, creativity, 
 │                                             │
 └─────────────────────────────────────────────┘
 ```
-
-I'm not interested in simply writing code that works.
-
-**I want to understand it, improve it, and build something meaningful with it.**
-
 ---
 
 ## 🛠️ Technology
@@ -118,7 +110,8 @@ Check out my repositories to see what I'm currently building.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ORLAND0HENRY&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58e6c8&icon_color=58e6c8&text_color=c9d1d9" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORLAND0HENRY&layout=compact&hide_border=true&bg_color=0d1117&title_color=58e6c8&text_color=c9d1d9" height="170">
+  <img src="![My Top Languages](https://shion.dev)
+username=ORLAND0HENRY&layout=compact&hide_border=true&bg_color=0d1117&title_color=58e6c8&text_color=c9d1d9" height="170">
 </p>
 
 ---
