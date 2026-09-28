@@ -109,9 +109,8 @@ Check out my repositories to see what I'm currently building.
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ORLAND0HENRY&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58e6c8&icon_color=58e6c8&text_color=c9d1d9" height="170">
-  <img src="![My Top Languages](https://shion.dev)
-username=ORLAND0HENRY&layout=compact&hide_border=true&bg_color=0d1117&title_color=58e6c8&text_color=c9d1d9" height="170">
+  <img src="https://github-stats-extended.vercel.app/api?username=ORLAND0HENRY&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58e6c8&icon_color=58e6c8&text_color=c9d1d9" height="170">
+  <img src="https://vercel.app" height="170">
 </p>
 
 ---
