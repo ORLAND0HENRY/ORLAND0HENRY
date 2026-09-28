@@ -137,7 +137,7 @@ Check out my repositories to see what I'm currently building.
 Whether you're a developer, creator, entrepreneur, tech enthusiast, or simply someone who likes building interesting things — you're welcome here.
 
 <p align="center">
-  <a href="https://github.com/ORLANTECH-INNOVATIONS">
+  <a href="https://orland0henry.github.io/orlanweb/">
     <img src="https://img.shields.io/badge/GitHub-ORLAND0%20HENRY-0d1117?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
