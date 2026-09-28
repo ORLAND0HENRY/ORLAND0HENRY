@@ -117,18 +117,6 @@ Check out my repositories to see what I'm currently building.
 
 ## 🌱 The Journey
 
-I'm still learning.
-
-Still experimenting.
-
-Still breaking things.
-
-Still fixing them.
-
-And that's exactly how I like it.
-
-Every project teaches me something new, and every problem is another opportunity to understand technology a little better.
-
 ```text
                     KEEP BUILDING
                          │
