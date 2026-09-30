@@ -6,7 +6,6 @@
 <p align="center">
   <strong>Founder · Developer · Builder</strong>
 </p>
-
 <p align="center">
   Where Tech Meets Creativity and Passion
 </p>
