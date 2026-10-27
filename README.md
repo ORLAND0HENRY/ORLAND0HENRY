@@ -37,7 +37,7 @@ I enjoy the entire process: understanding a problem, designing a solution, writi
 
 I'm particularly interested in backend engineering, cybersecurity, automation, and the broader possibilities of artificial intelligence.
 
-**My approach:** Understand the fundamentals. Build real things. Learn from the process. Keep improving.
+**My approach:** Understand the fundamentals. Build real things. Learn from the process & Keep improving.
 
 ## `02` — What I Build
 
