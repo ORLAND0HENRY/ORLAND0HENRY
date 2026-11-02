@@ -167,9 +167,6 @@ The ambition goes beyond writing code. It's about understanding people, identify
 
 ### Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ORLAND0HENRY&bg_color=0d1117&color=c9d1d9&line=58e6c8&point=58e6c8&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph">
-</p>
 
 *GitHub's native contribution calendar below this README provides the yearly activity overview. The streak card tracks consecutive contribution days.*
 
