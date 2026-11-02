@@ -1,0 +1,39 @@
+# --- Security & Secrets ---
+.env
+*.env
+bin/
+include/
+lib/
+share/
+pyvenv.cfg
+
+# --- Databases ---
+db.sqlite3
+
+# --- Django Specific ---
+media/
+staticfiles/
+static/admin/
+
+# --- Python Junk ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+ENV/
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db
+
+
+datadump.json
+
+# Local member registration data and import script
+member-registration.xlsx
+ .~lock.Member-registration.xlsx#
+
+Member-registration.xlsx
+member_import.py

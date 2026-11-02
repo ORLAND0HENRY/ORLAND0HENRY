@@ -140,15 +140,29 @@ The ambition goes beyond writing code. It's about understanding people, identify
 
 > Turning ideas into useful digital experiences.
 
+
 ## 06 / GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ORLAND0HENRY&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58e6c8&icon_color=58e6c8&text_color=c9d1d9&rank_icon=github" height="170" alt="GitHub statistics">
-  <img src="https://streak-stats.demolab.com?user=ORLAND0HENRY&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58E6C8&fire=58E6C8&currStreakLabel=58E6C8&sideLabels=58E6C8" height="170" alt="GitHub contribution streak">
+  <img src="./profile/stats.svg" width="100%" alt="GitHub profile statistics">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORLAND0HENRY&layout=compact&hide_border=true&bg_color=0d1117&title_color=58e6c8&text_color=c9d1d9&langs_count=8" height="160" alt="Most used programming languages">
+  <img src="./profile/streak.svg" width="100%" alt="GitHub contribution streak">
+</p>
+
+<p align="center">
+  <img src="./profile/languages.svg" width="100%" alt="Programming language breakdown">
+</p>
+
+### Yearly Contribution Activity
+
+<p align="center">
+  <img src="./profile/contributions.svg" width="100%" alt="Yearly GitHub contribution calendar">
+</p>
+
+<p align="center">
+  <sub>Automatically updated through GitHub Actions.</sub>
 </p>
 
 ### Contribution Activity
