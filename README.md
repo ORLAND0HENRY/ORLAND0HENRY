@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./banner.svg" alt="Orlando Henry | ORLANTECH INNOVATIONS" width="100%">
 </p>
@@ -6,11 +5,11 @@
 <h1 align="center">Orlando Henry</h1>
 
 <p align="center">
-  <strong>Python & Django Developer | Backend Engineering | Founder @ ORLANTECH INNOVATIONS</strong>
+  <strong>Python &amp; Django Developer · Backend Engineering · Founder, ORLANTECH INNOVATIONS</strong>
 </p>
 
 <p align="center">
-  Building practical software, exploring technology, and turning ideas into useful digital products.
+  Building practical software and turning ideas into useful digital products.
 </p>
 
 <p align="center">
@@ -20,128 +19,95 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Backend%20Development-0d1117?style=flat-square&labelColor=0d1117&color=58e6c8">
-  <img src="https://img.shields.io/badge/STACK-Python%20%7C%20Django-0d1117?style=flat-square&labelColor=0d1117&color=58e6c8">
-  <img src="https://img.shields.io/badge/BASED%20ON-Building%20%26%20Learning-0d1117?style=flat-square&labelColor=0d1117&color=58e6c8">
+  <img src="https://img.shields.io/badge/FOCUS-Backend%20Development-0d1117?style=flat-square&amp;labelColor=0d1117&amp;color=58e6c8" alt="Focus: backend development">
+  <img src="https://img.shields.io/badge/STACK-Python%20%7C%20Django-0d1117?style=flat-square&amp;labelColor=0d1117&amp;color=58e6c8" alt="Stack: Python and Django">
+  <img src="https://img.shields.io/badge/ALWAYS-Building%20%26%20Learning-0d1117?style=flat-square&amp;labelColor=0d1117&amp;color=58e6c8" alt="Always building and learning">
 </p>
 
 ---
 
-## 01 / About
+## About
 
-I'm Orlando Henry, a developer, technology enthusiast, and founder of **ORLANTECH INNOVATIONS**.
+I'm Orlando Henry, a developer, technology enthusiast, and founder of **ORLANTECH INNOVATIONS**. I build web applications and digital solutions with Python and Django, and I'm especially interested in the backend systems that make software reliable and useful.
 
-I build web applications and digital solutions using Python and Django, with a particular interest in the backend systems that make software work.
+I enjoy taking a practical problem from idea to implementation: understanding the need, shaping a solution, and working through the engineering details. Beyond web development, I'm exploring cybersecurity, artificial intelligence, and automation. I believe strong engineering starts with understanding the fundamentals—not just learning which tools to use.
 
-My development journey is driven by practical problem-solving. I enjoy taking an idea, understanding the problem behind it, designing a solution, and working through the technical challenges of bringing it to life.
+## What I Do
 
-Beyond web development, I'm interested in cybersecurity, artificial intelligence, automation, and software engineering.
+| Area | What I work on |
+| --- | --- |
+| **Backend development** | Django applications, business logic, authentication, data management, and application workflows. |
+| **Web development** | Responsive web experiences using HTML, CSS, Tailwind CSS, and JavaScript. |
+| **Digital solutions** | Turning practical problems into useful applications for businesses, institutions, and communities. |
+| **Security & automation** | Learning application security and cybersecurity fundamentals, along with scripting and workflow automation. |
 
-I believe good engineering starts with understanding the fundamentals, not simply knowing which tools to use.
-
-## 02 / What I Do
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Backend Development</h3>
-      Building Django applications, implementing business logic, authentication, database operations, and application workflows.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Web Development</h3>
-      Creating responsive, accessible web experiences with HTML, CSS, Tailwind CSS, and JavaScript.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Digital Solutions</h3>
-      Turning practical problems into usable applications for businesses, institutions, and communities.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Security & Automation</h3>
-      Exploring application security, cybersecurity fundamentals, scripting, and workflow automation.
-    </td>
-  </tr>
-</table>
-
-## 03 / Technology
+## Technology
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,tailwind,js,git,github,vscode&theme=dark" alt="Technology stack">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,tailwind,js,git,github,vscode&amp;theme=dark" alt="Python, Django, HTML, CSS, Tailwind CSS, JavaScript, Git, GitHub, and VS Code">
 </p>
 
-**Working with**
+**Tools I use**
 
-- Python
-- Django
-- HTML5, CSS3 and Tailwind CSS
-- JavaScript
+- Python and Django
+- HTML, CSS, Tailwind CSS, and JavaScript
 - Git and GitHub
 
-**Deepening my knowledge**
+**Currently developing my skills in**
 
 - Backend engineering and application architecture
 - Relational databases and data modelling
 - API development and integrations
-- Testing, debugging and secure coding
+- Testing, debugging, and secure coding
 - Cybersecurity and automation
 
-My focus is on developing a solid understanding of the technologies I use and applying that knowledge through real projects.
+I focus on building a solid understanding of the technologies I use and applying that knowledge through real projects.
 
-## 04 / Selected Projects
+## Selected Projects
 
 ### Pendo School Management
 
 A school management application exploring how software can simplify educational administration and institutional workflows.
 
-**Technologies:** Python · Django · HTML · Tailwind CSS
-
-**Engineering focus:** Application logic, authentication, data management, and role-based workflows.
-
----
+**Technologies:** Python · Django · HTML · Tailwind CSS  
+**Focus:** Application logic, authentication, data management, and role-based workflows.
 
 ### SDA Kangemi Ambassadors
 
-A live website developed for a church youth ministry and choir, providing a central digital platform for its activities, announcements, events, and media.
+A live website for a church youth ministry and choir, offering a central digital home for activities, announcements, events, and media.
 
-**Technologies:** Python · Django · HTML · CSS · JavaScript
+**Technologies:** Python · Django · HTML · CSS · JavaScript  
+**Focus:** Responsive design, content management, media handling, and progressive web application features.
 
-**Engineering focus:** Responsive design, content management, media handling, and progressive web application features.
-
-[Visit live website](https://kangemiambassadors.pythonanywhere.com)
-
----
+[Visit the live website](https://kangemiambassadors.pythonanywhere.com)
 
 ### Orlanweb Portfolio
 
-My personal portfolio, bringing together my development work, projects, and professional journey.
+My personal portfolio, showcasing my development work, projects, and professional journey.
 
 **Focus:** Web development · Personal branding · Digital presentation
 
-[Explore portfolio](https://orland0henry.github.io/orlanweb/)
+[Explore the portfolio](https://orland0henry.github.io/orlanweb/)
 
 <p align="center">
   <a href="https://github.com/ORLAND0HENRY?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-0d1117?style=for-the-badge&logo=github&logoColor=58e6c8">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=58e6c8" alt="Explore my repositories">
   </a>
 </p>
 
-## 05 / ORLANTECH INNOVATIONS
+## ORLANTECH INNOVATIONS
 
 <p align="center">
   <strong>Technology. Creativity. Innovation.</strong>
 </p>
 
-**ORLANTECH INNOVATIONS** is a technology venture founded on a simple idea: technology should solve meaningful problems.
+**ORLANTECH INNOVATIONS** is a technology venture founded on a simple idea: technology should solve meaningful problems. Its direction is centred on practical digital products, software solutions, and opportunities across emerging technologies.
 
-Its direction is centred on developing practical digital products, building software solutions, and exploring opportunities across emerging technologies.
-
-The ambition goes beyond writing code. It's about understanding people, identifying opportunities, and creating technology that delivers real value.
+The ambition goes beyond writing code: it's about understanding people, identifying opportunities, and creating technology that delivers real value.
 
 > Turning ideas into useful digital experiences.
 
-
-## 06 / GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="./profile/stats.svg" width="100%" alt="GitHub profile statistics">
@@ -155,22 +121,17 @@ The ambition goes beyond writing code. It's about understanding people, identify
   <img src="./profile/languages.svg" width="100%" alt="Programming language breakdown">
 </p>
 
-### Yearly Contribution Activity
-
-<p align="center">
-  <img src="./profile/contributions.svg" width="100%" alt="Yearly GitHub contribution calendar">
-</p>
-
-<p align="center">
-  <sub>Automatically updated through GitHub Actions.</sub>
-</p>
-
 ### Contribution Activity
 
+<p align="center">
+  <img src="./profile/contributions.svg" width="100%" alt="Yearly GitHub contribution activity">
+</p>
 
-*GitHub's native contribution calendar below this README provides the yearly activity overview. The streak card tracks consecutive contribution days.*
+<p align="center">
+  <sub>These cards are automatically updated through GitHub Actions.</sub>
+</p>
 
-## 07 / Engineering Philosophy
+## Engineering Philosophy
 
 ```text
        UNDERSTAND
@@ -191,30 +152,26 @@ The ambition goes beyond writing code. It's about understanding people, identify
          REPEAT
 ```
 
-I value:
+- **Fundamentals over shortcuts:** understand how things work beneath the surface.
+- **Practical experience over theory alone:** apply what I learn through real projects.
+- **Problem-solving over trends:** choose tools based on the problem.
+- **Continuous improvement over perfection:** learn, adapt, and build better solutions.
 
-- **Fundamentals over shortcuts.** Understand how things work beneath the surface.
-- **Practical experience over theory alone.** Apply knowledge through real projects.
-- **Problem-solving over technology trends.** Choose tools based on the problem.
-- **Continuous improvement over perfection.** Learn, adapt, and build better solutions.
+I'm still growing as an engineer, and that's a process I enjoy.
 
-I'm still growing as an engineer, and that's part of the process I enjoy.
+## Let's Connect
 
-## 08 / Let's Connect
-
-I'm always interested in connecting with developers, founders, entrepreneurs, and people exploring meaningful ideas in technology.
-
-Whether it's discussing software engineering, exchanging ideas, or exploring a potential collaboration, feel free to reach out.
+I'm always glad to connect with developers, founders, entrepreneurs, and others exploring meaningful ideas in technology. Feel free to reach out to discuss software engineering, exchange ideas, or explore a potential collaboration.
 
 <p align="center">
   <a href="https://orland0henry.github.io/orlanweb/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58e6c8">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=58e6c8" alt="Portfolio">
   </a>
   <a href="https://github.com/ORLAND0HENRY">
-    <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=58e6c8">
+    <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=58e6c8" alt="GitHub">
   </a>
   <a href="https://ke.linkedin.com/in/orlando-henry-842972360">
-    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=58e6c8">
+    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=58e6c8" alt="LinkedIn">
   </a>
 </p>
 
